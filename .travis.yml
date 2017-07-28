@@ -6,4 +6,4 @@ services:
 before_install:
     - "npm install"
 script:
-    - npm start
+    - node .build.travis.js
