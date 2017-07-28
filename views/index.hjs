@@ -101,7 +101,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-sweetalert/1.0.1/sweetalert.min.js"></script>
 <script>
   if(document.getElementById('getData').value == '1'){
-    swal("Success", "Your URL is http://{{domain}}/{{surl}}", "success")
+    swal("Success", "Your URL is http://{{domain}}/go/{{surl}}", "success")
   }
   </script>
 </body>
