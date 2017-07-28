@@ -1,3 +1,7 @@
+
+[![Build Status](https://travis-ci.org/ssysm/project_surl-nodejs.svg?branch=master)](https://travis-ci.org/ssysm/project_surl-nodejs)
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
+
 [中文请戳这里](README_CN.md)
 
 [Click here for English](README.md)
