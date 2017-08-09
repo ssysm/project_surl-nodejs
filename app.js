@@ -35,7 +35,7 @@ app.use('/', index);
 app.use('/users', users);
 app.use('/process',process);
 app.use('/api',api);
-app.use('/t',go);
+app.use('/t',t);
 app.use('/404',notfound);
 
 // catch 404 and forward to error handler
