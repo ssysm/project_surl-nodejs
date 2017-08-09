@@ -36,7 +36,7 @@ If your need to run on PHP&MySql System [Click Me](https://github.com/ssysm/proj
 
 # ATTENTION - IMPORTANT
 
-- When User Access they need type `WEB_ADDRESS.com/go/SHORTEN_URL`
+- When User Access they need type `WEB_ADDRESS.com/t/SHORTEN_URL`
 
 -----------------------------------------
 # API Usage
