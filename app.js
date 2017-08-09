@@ -8,7 +8,7 @@ var mongojs = require('mongojs');
 var index = require('./routes/index');
 var users = require('./routes/users');
 var api = require('./routes/api');
-var go = require('./routes/go');
+var t = require('./routes/go');
 var notfound = require('./routes/404')
 var process = require('./routes/process');
 var randomstring = require('randomstring'); 
@@ -35,7 +35,7 @@ app.use('/', index);
 app.use('/users', users);
 app.use('/process',process);
 app.use('/api',api);
-app.use('/go',go);
+app.use('/t',go);
 app.use('/404',notfound);
 
 // catch 404 and forward to error handler
